@@ -44,13 +44,9 @@
   },
   "homepage": "https://github.com/react-navigation/tabs#readme",
   "dependencies": {
-    "expo": "^49.0.10",
-    "expo-asset": "^8.12.0",
     "hoist-non-react-statics": "^3.3.0",
     "react-lifecycles-compat": "^3.0.4",
-    "react-native-safe-area-view": "^0.14.6",
-    "react-native-tab-view": "^2.11.0",
-    "react-navigation-stack": "^2.10.4"
+    "react-native-safe-area-view": "^0.14.6"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^7.5.0",
