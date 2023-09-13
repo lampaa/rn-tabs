@@ -111,7 +111,8 @@
     "output": "lib",
     "targets": [
       "commonjs",
-      "module"
+      "module",
+      "typescript"
     ]
   }
 }
