@@ -84,7 +84,7 @@
     "react-native": "*",
     "react-native-gesture-handler": "*",
     "react-native-reanimated": "*",
-    "react-native-screens": "^1.0.0 || ^1.0.0-alpha",
+    "react-native-screens": "*",
     "react-navigation": "^4.0.7"
   },
   "jest": {
